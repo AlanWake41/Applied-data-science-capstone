@@ -1,2 +1,6 @@
-# Applied-data-science-capstone
-This is an entire step by step process of how Data Science and Machine Learning works in real world
+# Space-X-Falcon-9-First-Stage-Landing-Prediction
+In this Project I predicted and visualised the landing possibility of
+SpaceX Rockets with the help of past datas. Webscraping helped
+to extract the data and Data Visualisation was done by Matplotlib
+and Plotly. And Machine Learning Helped to predict Data Efficiently
+with up to 80% Accuracy
